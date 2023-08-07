@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.fedoraproject.welcome-screen.desktop" score="0" last-seen="1691444816"/>
+    <application id="org.gnome.Nautilus.desktop" score="29" last-seen="1691445204"/>
+    <application id="org.gnome.TextEditor.desktop" score="1" last-seen="1691444980"/>
+    <application id="org.gnome.Terminal.desktop" score="21" last-seen="1691445225"/>
+    <application id="org.gnome.Calendar.desktop" score="0" last-seen="1691444845"/>
+  </context>
+</application-state>
